@@ -32,7 +32,7 @@ body{
     font-style: italic;
     font-family: 'Tangerine', cursive;
     font-weight: 800;
-    font-size: 3em;
+    font-size: 1em;
     -webkit-animation-name: bounceOutDown;
     animation-name: bounceOutDown;
     
@@ -89,7 +89,7 @@ body{
     flex-direction: column;
     justify-content:center;
     align-items:left;
-    height: 200%;
+    height: 20%;
     text-align: left;
     padding-left: 40px;
     padding-right: 100px;
@@ -148,7 +148,7 @@ body{
     color: white;
     position: relative;
     display: flex;
-    padding-left:300px;
+    padding-left:200px;
     padding-bottom: 60px;
    
 }
